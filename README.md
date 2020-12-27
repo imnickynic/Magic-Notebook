@@ -1,5 +1,5 @@
 ___
-Notebook
+# Simple Notebook
 ___
 #### Link -->   
 ### [Click Here..](https://imnickynic.github.io/magic-notebook/)  
