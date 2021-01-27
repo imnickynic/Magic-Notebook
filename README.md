@@ -1,8 +1,5 @@
 ___
-# Simple Notebook
+# Fetching Pokemon using Poke API in React JS
 ___
 #### Link -->   
-### [Click Here..](https://ramanand03.github.io/magic-notebook/)  
-
-
-### --> Use Local Storage to Store Your Data.
+### [Click Here..](https://ramanand03.github.io/pokemons)  
