@@ -1,5 +1,5 @@
 ___
-# Fetching Pokemon using Poke API in React JS
+# Simple Notebook
 ___
 #### Link -->   
-### [Click Here..](https://ramanand03.github.io/pokemons)  
+### [Click Here..](https://ramanand03.github.io/magic-notebook/)  
